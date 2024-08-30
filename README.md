@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wangchaozhi
 - 👀 主营Java
 - 🌱 会golang,Python,会点：C++,C#
-- 💞️ 目前在一家小互联网公司工作
 - 📫 How to reach me ...
 
 <!---
