@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wangchaozhi
 - 👀 主营Java
 - 🌱 会Golang,Python,会点C++,C#
-- 📫 2293123085@qq.com
+- 📫 foxflysky@foxmail.com
 
 <!---
 wangchaozhi/wangchaozhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
