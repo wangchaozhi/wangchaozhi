@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangchaozhi
 - 👀 主营Java
-- 🌱 会golang,Python,会点C++,C#
+- 🌱 会Golang,Python,会点C++,C#
 - 📫 2293123085@qq.com
 
 <!---
