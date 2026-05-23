@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangchaozhi
-- 👀 主营Java
-- 🌱 会Golang,Python,正在建设中的语言:C++,C#,Rust
+- 👀 主营Golang
+- 🌱 会Java,C#,Python,正在建设中的语言:C++,,Rust
 - 📫 foxflysky@foxmail.com
 
 <!---
